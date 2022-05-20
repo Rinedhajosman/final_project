@@ -1,0 +1,33 @@
+nav{
+    background-color: rgb(255, 255, 255);
+width:100%;
+height: auto;
+max-width: 100%;
+display: flex;
+}
+
+nav a{
+    color: #217e2e !important;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight:bold;
+ 
+}
+
+nav img{
+    max-width: 100%;
+    width: 100px;
+}
+.left{
+  margin-left: 50%;
+}
+nav #number{
+    border: 3px solid #217e2e;
+box-sizing: border-box;
+
+}
+nav #number:hover{
+    background-color: #217e2e;
+    color: white !important;
+    transition: 2s ease;
+}

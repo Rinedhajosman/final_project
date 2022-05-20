@@ -1,0 +1,300 @@
+.numbers{
+    background-color: #16501e;
+    padding: 2px 0px ;
+    max-width: 100%;
+    height: 180px;
+    text-align: center;
+    overflow: hidden;
+    margin-top: 0;
+    
+}
+.col{
+padding-left: 20%;
+}
+
+.col > div{
+    width: 130px;
+    float: left;
+    margin: 40PX;
+
+}
+.numbers h2{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0px;
+    color: white;
+    font-family: 'Tajawal';
+}
+.numbers h6{
+    color: white;
+    font-family: 'Tajawal';
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+/*css to the restaurant section and ingredients*/
+.restaurant, 
+.ingredients{
+    background-color: transparent;
+    padding: 25px 0px ;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.row img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+.ingredients-img{
+    width: 60%;
+    float: right;
+    margin-top: -50%;
+    right: 100px;
+}
+
+
+
+.row h2{
+    font-size: 50px;
+    font-weight: bold;
+    width: 80%;
+    margin: 10px 0px;
+    color: #16501e;
+    font-family: 'Tajawal';
+    line-height: 50px;
+}
+.row p{
+font-size: 16px;
+line-height: 28px;
+color: #333;
+font-family: 'sans-serif';
+margin-top: 15px;
+width: 75%;
+}
+.row button{
+    background-color: #16501e;
+border: 1px solid #16501e;
+box-sizing: border-box;
+width: 140px;
+height: 40px;
+text-align: center;
+margin-top: 20px;
+transition: .2s ease;
+}
+.row button a{
+    display: block;
+    color: white;
+    font-family: 'Tajawal';
+    text-decoration: none !important;
+    font-weight: bold;
+
+}
+
+.row button:hover a{
+    color: #16501e
+}
+
+.row button:hover{
+background-color: white;
+
+}
+
+.row ul{
+padding:0px;
+}
+.row ul li{
+    list-style-type:unset;
+    font-family: 'Tajawal';
+    color: #333;
+    margin-top: 5px;
+}
+
+/*css to the stories section*/
+
+.stories{
+    background-image: url("../../../src/imgs/background-2.jpg");
+    background-size: cover;
+    width:100%;
+    text-align: center;
+    height: 400px;
+    padding: 30px 0px;
+    margin-top: 20px;
+}
+.stories .row{
+    margin: 50px 0px;
+}
+.stories h2{
+    width: 100%;
+    margin: 20px 0px;
+}
+.stories p{
+    color: rgb(46, 46, 46);
+    margin: 20px 50px;
+    line-height: 32px;
+    font-family: sans-serif;
+
+    
+}
+
+.stories a{
+    color: #16501e;
+    font-size: 20px;
+    margin: 20px 0px;
+    font-family: 'Tajawal';
+    text-decoration: none !important;
+}
+
+/* start css to the blogs section*/
+.blogs{
+    margin-top: 50px;
+padding: 25px 0px;
+overflow: hidden;
+width: 100%;
+height: auto;
+}
+
+.blogs .row:first-child{
+text-align: center;
+margin: 25px;
+margin-left: 100px;
+width: 100%;
+}
+.blogs .box{
+width: 100%;
+max-width: 100%;
+height: auto;
+overflow: hidden;
+border: 1px solid white;
+box-sizing: border-box;
+margin-top: 10px;
+border-radius: 5px;
+}
+.blogs h5{
+color: #16501e;
+font-family: 'Tajawal';
+font-size: 22px;
+font-size: 22px;
+margin: 15px 0px;
+}
+.blogs .box span{
+    display: block;
+    color:#333;
+    font-family: 'Tajawal';
+    font-size: 16px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+
+}
+.blogs .box h6{
+color: #16501e;
+font-size: 22px;
+font-family: sans-serif;
+}
+/*start css to the slider section*/
+.slider{
+    background-color: #16501e;
+    border: 1px solid #16501e;
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    padding: 50px 0px;
+    margin: 50px 0px;
+}
+.slider .carousel-item{
+    background-color: white;
+    margin: 40px 0px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+    padding: 25px 0px;    
+}
+.slider img{
+    border-radius: 30%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 150px;
+}
+.slider .carousel-item p{
+    font-size: 17px;
+    line-height: 30px;
+    margin: 20px 100px;
+    text-align: center;    
+}
+.slider h2{
+    color: white;
+     align-items: center;
+     width: 100%;
+}
+
+.slider .carousel-item span{
+    color: #16501e;
+    display: block;
+    margin: 15px 0px;
+    text-transform: uppercase;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

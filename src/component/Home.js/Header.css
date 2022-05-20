@@ -1,0 +1,59 @@
+header{
+    background-image: url("../../../src/imgs/background-1.jpg") ;
+    background-size: cover;
+    width:100%;
+    max-width: 100%;
+    text-align: left;
+    height: auto;
+    overflow: hidden;
+    padding: 25px 0px;
+    margin-top: 0px;
+    
+}
+header .row{
+margin:80px 0px;
+}
+
+header h2{
+    color:#16501e;
+    font-size: 50px;
+    line-height: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 82%;
+}
+header p{
+    color: #7e7b7b;
+font-family: sans-serif;
+margin: 15px 0px;
+width: 80%;
+font-size: 1.2rem;
+
+}
+header button{
+    width: 140px;
+height: 40px;
+background-color: #16501e;
+border: 1px solid #16501e;
+text-align: center;
+color: white;
+box-sizing: border-box;
+margin:20px 10px 20px 0px;
+font-weight: bold;
+}
+
+header button:last-of-type{
+background-color: white;
+color: #0a0a0a;    
+}
+header button:hover{
+transition: .2s ease-in-out;
+}
+header button:first-of-type:hover{
+    background-color: white;
+    color: #16501e;
+}
+header button:last-of-type:hover{
+    background-color: #16501e;
+    color: white;
+}
